@@ -1,4 +1,4 @@
-/* Global Styles */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -77,7 +77,6 @@ ul li {
     font-size: 1.1em;
 }
 
-/* Testimonial Section */
 .testimonial {
     background-color: #fff;
     padding: 30px;
@@ -91,24 +90,3 @@ ul li {
     color: #555;
 }
 
-/* Footer Styling */
-footer {
-    background-color: #222;
-    color: #fff;
-    text-align: center;
-    padding: 20px 0;
-}
-
-footer a {
-    color: #00aaff;
-    text-decoration: none;
-}
-
-footer .social-links {
-    margin-top: 15px;
-}
-
-footer .social-links a {
-    margin: 0 10px;
-    font-size: 1.5em;
-}
